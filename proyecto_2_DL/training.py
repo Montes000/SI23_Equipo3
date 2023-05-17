@@ -19,7 +19,7 @@ def validation_step(val_loader, net, cost_function):
         args:
         - val_loader (torch.DataLoader): dataloader para los datos de validación
         - net: instancia de red neuronal de clase Network
-        - cost_function (torch.nn): Función de costo a utilizar
+        - cost_function (torch.nn): Fnción de costo a utilizar
 
         returns:
         - val_loss (float): el costo total (promedio por minibatch) de todos los datos de validación
