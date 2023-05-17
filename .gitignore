@@ -128,3 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 *.ini
+proyecto_final/traffic_sign_recognition/data/crop_dataset
+proyecto_final/traffic_sign_recognition/data/test_data
+proyecto_final/traffic_sign_recognition/data/test_labels.csv
+proyecto_final/traffic_sign_recognition/models
